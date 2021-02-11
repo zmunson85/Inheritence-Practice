@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\obj\Debug\netcoreapp3.1\inheritPraci.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\obj\Debug\netcoreapp3.1\inheritPraci.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\obj\Debug\netcoreapp3.1\inheritPraci.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\obj\Debug\netcoreapp3.1\inheritPraci.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\bin\Debug\netcoreapp3.1\inheritPraci.exe
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\bin\Debug\netcoreapp3.1\inheritPraci.deps.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\bin\Debug\netcoreapp3.1\inheritPraci.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\bin\Debug\netcoreapp3.1\inheritPraci.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\bin\Debug\netcoreapp3.1\inheritPraci.dll
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\bin\Debug\netcoreapp3.1\inheritPraci.pdb
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\obj\Debug\netcoreapp3.1\inheritPraci.dll
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\obj\Debug\netcoreapp3.1\inheritPraci.pdb
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\inheritPraci\obj\Debug\netcoreapp3.1\inheritPraci.genruntimeconfig.cache
